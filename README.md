@@ -1,4 +1,4 @@
-Decidi fazer esse projeto para unir todo o meu aprendizado de algoritmos até aqui em um progtrama na linguagem C.
+Decidi fazer esse projeto para unir todo o meu aprendizado de algoritmos até aqui em um programa na linguagem C.
 
    - O programa solicita o ID e o tipo de combustível de "n" veículos (1 para Etanol, 2 para Gasolina, 3 para Diesel).
    - Para cada veículo, o programa também solicita a quilometragem inicial e final de uma viagem, além da quantidade de combustível consumido.
